@@ -19,13 +19,3 @@ I used the Titanic dataset to demonstrate 4 statistical concepts that every ML p
 | **Confidence Intervals** | How uncertain am I about performance? |
 | **Hypothesis Testing** | Is this improvement real or just luck? |
 
-## 🚀 Quick Start (No Coding Required!)
-
-### Run in Google Colab:
-1. Click the "Open in Colab" badge above
-2. Click `Runtime` → `Run all`
-3. Wait 2 minutes
-4. Download the visualizations
-
-### Run Locally:
-```bash
